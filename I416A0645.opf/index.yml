@@ -1,0 +1,11 @@
+id: cc84fc4ea068403fb8b9a1587fafa774
+annotation_type: index
+revision: '00001'
+annotations:
+  d9dac024f0b14bf5a865e193be450e8a:
+    base: D00C.txt
+    Chapters:
+    - title: Ṣoḍaśaka
+      span:
+        start: 0
+        end: 27413
